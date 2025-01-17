@@ -27,7 +27,7 @@ The **Online Quiz System** is a simple web-based application designed to manage 
 
 The UML class diagram below illustrates the structure of the system:
 
-![Class Diagram](https://drive.google.com/file/d/1OENbALBnY02nku0NGV_HV5C0MQDCsrA_/view?usp=sharing)
+[View Class Diagram on Google Drive](https://drive.google.com/file/d/1OENbALBnY02nku0NGV_HV5C0MQDCsrA_/view?usp=sharing)
 
 ---
 
